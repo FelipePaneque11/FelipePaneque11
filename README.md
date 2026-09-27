@@ -1,22 +1,14 @@
-<h1 align="center">Hi, I'm Felipe 👋</h1>
+<h2>Hi, I'm Felipe and that´s my github</h2>
 
-<p align="center">
+<p>
   Computer Science student focused on <strong>Software Development</strong> and <strong>Cybersecurity</strong>.
 </p>
 
-<p align="center">
-  I enjoy building applications, learning security concepts, working with networks, and developing practical projects with Java and Python.
-</p>
-
----
-
 ### 👨‍💻 About Me
 
-- 🎓 Final-year Computer Science student
-- 🔐 Interested in Cybersecurity, Network Security, Penetration Testing and Secure Software Development
-- 🐍 Currently developing my Python skills for cybersecurity and automation
-- ☕ Experience building applications and REST APIs with Java and Spring Boot
-- 🌐 Interested in networking, cloud applications and security-focused software projects
+-  Final-year Computer Science student
+-  Interested in Cybersecurity, Network Security, Penetration Testing and Secure Software Development
+-  Currently developing my Python skills for cybersecurity and automation
 
 ### 🛠️ Languages & Technologies
 
@@ -30,18 +22,6 @@
   <img alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img alt="GitHub" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </div>
-
-### 🛡️ Cybersecurity
-
-I'm building hands-on experience in areas such as:
-
-- Network traffic analysis and packet inspection
-- TCP/IP, DNS, ports and common network protocols
-- Network reconnaissance and vulnerability assessment
-- Secure authentication and application security
-- Python scripting for security tools and automation
-
-Tools I've worked with include **Wireshark, Nmap, Scapy, Kali Linux and Cisco Packet Tracer**.
 
 ### 📊 GitHub Stats
 
