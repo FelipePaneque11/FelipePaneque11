@@ -23,16 +23,16 @@
   <img alt="GitHub" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </div>
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
-<div align="center">
+<div>
   <a href="https://github.com/FelipePaneque11">
-    <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FelipePaneque11&theme=dracula" alt="Felipe's GitHub stats"/>
-    <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FelipePaneque11&theme=dracula" alt="Felipe's most used languages"/>
+    <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FelipePaneque11&theme=dracula" alt="GitHub stats"/>
+    <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FelipePaneque11&theme=dracula" alt="Most used languages"/>
   </a>
 </div>
 
-### 📫 Connect with Me
+### Connect with Me
 
 <div>
   <a href="https://www.linkedin.com/in/felipepaneque1/" target="_blank">
@@ -42,8 +42,6 @@
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </div>
-
-### 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FelipePaneque11/FelipePaneque11/output/github-contribution-grid-snake-dark.svg">
