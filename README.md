@@ -8,6 +8,7 @@
 
 -  Final-year Computer Science student
 -  Interested in Cybersecurity, Network Security, Penetration Testing and Secure Software Development
+-  Final Year Project: A Python-based network security application that monitors network traffic, detects suspicious activity, and uses AI to recommend appropriate security responses.
 -  Currently developing my Python skills for cybersecurity and automation
 
 ### 🛠️ Languages & Technologies
